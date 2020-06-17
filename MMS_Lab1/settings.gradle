@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MMS_Lab1"

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857212531914",
+    "firebase_url": "https://mms-lab3.firebaseio.com",
+    "project_id": "mms-lab3",
+    "storage_bucket": "mms-lab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857212531914:android:13a5abc331efcc2b13b033",
+        "android_client_info": {
+          "package_name": "ovh.milkowski.mms_lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857212531914-msv4k25502ud7prcf170ojol041basnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYzuHYWvCAaVzvqOtmee_rBgjEHNLjnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857212531914-msv4k25502ud7prcf170ojol041basnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

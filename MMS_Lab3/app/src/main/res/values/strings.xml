@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MMS_Lab3</string>
+    <string name="results">--- Select image to show results ---</string>
+    <string name="no_results">--- Detection did not return any results ---</string>
+    <string name="select_image">Select image for analysis</string>
+    <string name="switch_to_text_recognition">Switch to text recognition</string>
+    <string name="switch_to_image_recognition">Switch to image recognition</string>
+</resources>
